@@ -1,4 +1,10 @@
 # footprintDetection
-footprint detection from images in Matlab
+This script detect footprints and calculates Arch Index (Cavanagh et al. 1987)
 
-![alt text](https://github.com/tramarobin/fctSnPM/blob/master/Figures/2D_Post-hoc_MAIN.png)
+You can uncomment all the parts that create figures to see the steps:
+
+![alt text](https://github.com/PabRD/footprintDetection/blob/main/gitHub_ArchIndexFinal.png)
+![alt text](https://github.com/PabRD/footprintDetection/blob/main/gitHub_Binarize.png)
+![alt text](https://github.com/PabRD/footprintDetection/blob/main/gitHub_ArchIndexFinal.png)
+
+
