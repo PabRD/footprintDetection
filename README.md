@@ -8,8 +8,10 @@ rbg image to gray image and improving contrast :
 ![alt text](https://github.com/PabRD/footprintDetection/blob/main/gitHub_Binarize.png)
 
 Erode, dilate, smooth, watershed segmentation:
+
 ![alt text](https://github.com/PabRD/footprintDetection/blob/main/gitHub_Steps.png)
 
-Arch Index calculation
+Arch Index calculation:
+
 ![alt text](https://github.com/PabRD/footprintDetection/blob/main/gitHub_ArchIndexFinal.png)
 
