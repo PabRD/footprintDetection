@@ -2,7 +2,7 @@
 This script detect footprints and calculates Arch Index (Cavanagh et al. 1987)
 25 images are available. You can run the code with the .m directly in the raw image folder.
 
-You can uncomment all the parts that create figures to see the steps:
+There is different steps with figures:
 rbg image to gray image and improving contrast :
 
 ![alt text](https://github.com/PabRD/footprintDetection/blob/main/gitHub_Binarize.png)
