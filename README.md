@@ -15,3 +15,6 @@ Arch Index calculation:
 
 ![alt text](https://github.com/PabRD/footprintDetection/blob/main/gitHub_ArchIndexFinal.png)
 
+Other exemple with the watershed transform:
+
+![alt text](https://github.com/PabRD/footprintDetection/blob/main/gitHub_WatershedExemple.png)
