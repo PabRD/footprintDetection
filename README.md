@@ -1,6 +1,7 @@
 # footprintDetection
-This script detect footprints and calculates Arch Index (Cavanagh et al. 1987)
-25 images are available. You can run the code with the .m directly in the raw image folder.
+This script proposes footprints detection and Arch Index calculation (Cavanagh et al. 1987) from footprint photographs`.
+25 images are available. You can run the code with the .m file directly in the raw image folder.
+
 
 There is different steps with figures:
 rbg image to gray image and improving contrast :
